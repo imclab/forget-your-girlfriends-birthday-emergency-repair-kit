@@ -1,4 +1,4 @@
-![](https://raw.github.com/astanway/i-forgot-my-girlfriends-birthday/master/birthday.jpg)
+![](https://raw.github.com/astanway/i-forgot-my-girlfriends-birthday/master/birthday.jpeg)
 
 ## Instructions:
 * Forget your girlfriend's birthday
