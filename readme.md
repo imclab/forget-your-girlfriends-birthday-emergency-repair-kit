@@ -9,7 +9,7 @@
 * Get laid!
 
 ## Does this really work?
-It should, as long as you deploy it fast enough before your relationship is corrupted. The original was coded and deployed within one hour of the ground zero/event horizon/realization of fuckup; you may need more or less time to make it believable and effective.
+It should, as long as you deploy it fast enough before your entire reproduction stack is corrupted. The original was coded and deployed within one hour of the ground zero/event horizon/realization of fuckup; you may need more or less time to make it believable and effective.
 
 ## Is there a CLI on the way?
 Possibly, if there's sufficient demand. Which there should be.
