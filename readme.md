@@ -3,8 +3,8 @@
 ## Instructions:
 * Forget your girlfriend's birthday
 * Get in trouble
-* Change the name in index.html to <YOUR UNFORTUNATE MATE>
-* Change the copy and picture in about.html to <YOUR BRAND OF TERRIBLE JOKES>
+* Change the name in index.html to {YOUR UNFORTUNATE MATE}
+* Change the copy and picture in about.html to {YOUR BRAND OF TERRIBLE JOKES}
 * ???
 * Get laid!
 
